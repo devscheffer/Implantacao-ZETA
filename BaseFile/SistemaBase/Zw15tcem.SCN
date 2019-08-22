@@ -1,0 +1,25 @@
+[UNNAMED]
++SessionDate=26/04/2019
+crc32v2=2710532622
++CurrentKey=TCEM:PORNOME
+ENV File Path=
+OEM=0
+Record Order=Record Order
+TCEM:PORSERVIDOR=TCEM:PORSERVIDOR
+TCEM:PORID=TCEM:PORID
+TCEM:PORNOME=TCEM:PORNOME
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+ID=19R(2)~Id~C(0)@N-13@?Id:
+ID_SERVIDOR=61R(2)~Id Servidor~C(0)@N-13@?Id Servidor:
+NOME=146L(2)~Nome~C(0)?Nome:
+USUARIO=244L(2)~Usuario~C(0)?Usuario:
+ENDERECO=236L(2)~Endereco~C(0)?Endereco:
+SENHA=74L(2)~Senha~C(0)?Senha:
+Columns=7
+Column1=RECORD NUMBER
+Column2=ID
+Column3=ID_SERVIDOR
+Column4=NOME
+Column5=USUARIO
+Column6=ENDERECO
+Column7=SENHA

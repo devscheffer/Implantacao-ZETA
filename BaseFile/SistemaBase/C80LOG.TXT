@@ -1,0 +1,8 @@
+Error: memory block free'd twice
+0108176F  0001:0008076F ClaRUN.dll
+01420CA5  0001:0029FCA5 ZW15OPE.dll
+010BD9F7  0001:000BC9F7 ClaRUN.dll
+010BD71C  0001:000BC71C ClaRUN.dll
+7723AD8F  0001:00059D8F ntdll.dll
+7723AD5A  0001:00059D5A ntdll.dll
+----------------------------------

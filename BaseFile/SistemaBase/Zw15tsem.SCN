@@ -1,0 +1,22 @@
+[UNNAMED]
++SessionDate=26/04/2019
+crc32v2=1945178710
++CurrentKey=TSEM:PORNOME
+ENV File Path=
+OEM=0
+Record Order=Record Order
+TSEM:PORID=TSEM:PORID
+TSEM:PORNOME=TSEM:PORNOME
+Record Number=47R(2)~Rec No~C(0)@N_12@E(,08000000FH,,080000010H)?Rec No:
+ID=19R(2)~Id~C(0)@N-13@?Id:
+NOME=82L(2)~Nome~C(0)?Nome:
+SMTP=114L(2)~Smtp~C(0)?Smtp:
+PORTA=58R(2)~Porta~C(0)@N-13@?Porta:
+AUTENTICACAOSSL=85R(2)~Autenticacaossl~C(0)@N3@?Autenticacaossl:
+Columns=6
+Column1=RECORD NUMBER
+Column2=ID
+Column3=NOME
+Column4=SMTP
+Column5=PORTA
+Column6=AUTENTICACAOSSL

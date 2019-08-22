@@ -1,0 +1,6 @@
+Zw15zfxf.tps : ERROR (4) - Header position not correct
+Zw15zfxf.tps : ERROR (5) - Header size is not correct
+Zw15zfxf.tps : ERROR (6) - File truncated (data lost)
+Zw15zfxf.tps : ERROR (10) - Header update area past end of file
+Zw15zfxf.tps : ERROR (11) - Btree Root position incorrect
+Zw15zfxf.tps : ERROR (12) - Btree Root past end of file

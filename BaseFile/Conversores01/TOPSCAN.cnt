@@ -1,0 +1,21 @@
+:Base TOPSCAN.hlp
+:Title TopSpeed Database Scanner
+1 TOPSCAN
+2 Contents=Contents
+2 Menu Commands=Menu_Commands
+2 About TopScan=About_TopScan
+2 Pick TopSpeed File=Pick_TopSpeed_File
+2 Format Database Column=Format_Database_Column
+2 Display File Layout=Display_File_Layout
+2 Analyze TopSpeed Database=Analyze_TopSpeed_Database
+2 Export to ASCII File=Export_to_ASCII_File
+2 Show/Hide=Show_Hide
+2 Expression=Expression
+2 Dynamic index query=Dynamic_index_query
+2 Mass update=Mass_update
+2 Mass update progress=Mass_update_progress
+2 Analyze File=Analyze_File
+2 Password Dialog=Password_Dialog
+2 Select TXD file=Select_TXD_file
+2 Rebuild keys=Rebuild_keys
+2 Search/Replace within Column=Search_Replace_within_Column
